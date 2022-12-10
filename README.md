@@ -4,7 +4,6 @@ _Trying_ to avoid using non-stdlib packages. We'll see how far we get...
 
 ## Structure of the repository
 
-- `data`: Input files (both the testing and actual inputs)
 - `scripts`: Location of solution scripts
 - `src`: Common helper-code for solution
 
